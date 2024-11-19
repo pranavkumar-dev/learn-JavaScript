@@ -12,14 +12,14 @@
 
 // // title notations
 
-// console.log(course.title);
-// console.log(course['title']);
+console.log(course.title);
+console.log(course['title']);
 
 
-// let x = "pas" ;
-// let y = x ;
+let x = "pas" ;
+let y = x ;
 
-// x = "hari";
+x = "hari";
 
 // console.log(x);
 // console.log(y);
